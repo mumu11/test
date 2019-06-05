@@ -24,6 +24,7 @@
 -(void)method{
     //hhh
     //在marge1上面加了这句话
+    //在master主分支上面添加了这句话
 }
 
 
