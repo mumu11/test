@@ -21,6 +21,9 @@
     NSLog(@"hhh");
     NSLog(@"test");
 }
+-(void)method{
+    //hhh
+}
 
 
 @end
